@@ -1,1 +1,1 @@
-# it_vikipedia
+# avto_vikipedia
